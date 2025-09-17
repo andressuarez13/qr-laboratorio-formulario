@@ -1,0 +1,22 @@
+{
+    "null": {
+        "1": {
+            "Usuario": null,
+            "Descripcion": null,
+            "Instructor Responsable": null,
+            "Fecha": null,
+            "Area": null,
+            "SubArea": null
+        }
+    },
+    "": {
+        "1": {
+            "Usuario": "",
+            "Descripcion": "",
+            "Instructor Responsable": "",
+            "Fecha": "",
+            "Area": "",
+            "SubArea": ""
+        }
+    }
+}
